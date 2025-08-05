@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Ilia! 👋
 
-<!--
-**Ilia-AI-ML-NN/Ilia-AI-ML-NN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently studying Artificial Intelligence, programming, and mathematics.  
+🇩🇪 I'm preparing for university in Germany (T-Kurs at Studienkolleg).  
+🧠 I'm passionate about Machine Learning, Data Science, and building real-world projects with Python.  
+🌱 Currently learning: NumPy, Scikit-learn, Git, and core ML concepts.  
+🚀 Exploring AI to build useful tools and gain practical experience.  
+📫 You can reach me at: atlanticintel7@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+
+- [🔢 Mini Linear Regression Project](https://github.com/Ilia-AI-ML-NN/mini-linear-regression)  
+  A beginner-friendly project using Python, NumPy, and Matplotlib to visualize simple linear regression.
+
+(More coming soon!)
+
+---
+
+## 💬 Fun fact
+
+I believe that learning by doing is the best way — and every small project is a big step forward. 😊
