@@ -14,6 +14,12 @@
 - [🔢 Mini Linear Regression Project](https://github.com/Ilia-AI-ML-NN/mini-linear-regression)  
   A beginner-friendly project using Python, NumPy, and Matplotlib to visualize simple linear regression.
 
+- [📈 Logistic Regression Classifier](https://github.com/Ilia-AI-ML-NN/logistic-regression-classifier)  
+  Implementation of logistic regression for binary classification tasks with clear explanations and practical examples.
+
+- [🎬 Movie Review Analyzer with KNN](https://github.com/Ilia-AI-ML-NN/movie-review-knn)  
+  An AI-powered CLI tool that analyzes movie reviews using K-Nearest Neighbors and TF-IDF to classify reviewer type and predict movie rating on a 10-point scale.
+
 (More coming soon!)
 
 ---
