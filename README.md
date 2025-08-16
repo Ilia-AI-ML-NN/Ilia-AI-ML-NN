@@ -20,7 +20,7 @@
 - [🎬 Movie Review Analyzer with KNN](https://github.com/Ilia-AI-ML-NN/movie-review-knn)  
   An AI-powered CLI tool that analyzes movie reviews using K-Nearest Neighbors and TF-IDF to classify reviewer type and predict movie rating on a 10-point scale.
 
-(More coming soon!)
+- (Other projects are available on my GitHub profile.)
 
 ---
 
